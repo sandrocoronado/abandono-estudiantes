@@ -72,9 +72,12 @@ def main():
     - Tasa de Inflación (`Inflation rate`)
     - PIB (`GDP`)
     - Variable Objetivo (`Target`)
+             
+    En caso de no tener el dataset, aquí te comparto el link al dataset: https://docs.google.com/spreadsheets/d/e/2PACX-1vRSkMc3lmZjx5WivGeCWDQsop1KHgAdyhgRhBNlHNFrrOSF_8YKIub0-0rgpHtbhayaW16sdpfUEipU/pub?gid=2001615092&single=true&output=csv
     
     Asegúrate de que tu conjunto de datos contenga estas columnas antes de cargarlo para garantizar que la aplicación funcione como se espera.
     """)
+    
 
 if __name__ == "__main__":
     main()
